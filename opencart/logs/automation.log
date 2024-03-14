@@ -1,0 +1,9 @@
+11:46:24.330 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+11:46:24.339 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+11:46:54.388 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+11:48:31.047 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2159975\Downloads\opencart-master\opencart-master\mastersuite.xml"
+11:48:39.310 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+11:48:39.310 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+11:48:40.258 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+11:48:40.258 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+11:49:10.290 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
